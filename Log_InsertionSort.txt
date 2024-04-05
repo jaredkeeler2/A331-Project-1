@@ -1,0 +1,30 @@
+Applying InsertionSort to array_1.txt
+Sorted Array:
+Time to sort: 0.4439198970794678
+Applying InsertionSort to array_2.txt
+Sorted Array:
+Time to sort: 1.6794564723968506
+Applying InsertionSort to array_3.txt
+Sorted Array:
+Time to sort: 3.898064374923706
+Applying InsertionSort to array_4.txt
+Sorted Array:
+Time to sort: 7.136944532394409
+Applying InsertionSort to array_5.txt
+Sorted Array:
+Time to sort: 10.285552024841309
+Applying InsertionSort to array_6.txt
+Sorted Array:
+Time to sort: 15.300609350204468
+Applying InsertionSort to array_7.txt
+Sorted Array:
+Time to sort: 21.832433938980103
+Applying InsertionSort to array_8.txt
+Sorted Array:
+Time to sort: 27.780962228775024
+Applying InsertionSort to array_9.txt
+Sorted Array:
+Time to sort: 35.781938791275024
+Applying InsertionSort to array_10.txt
+Sorted Array:
+Time to sort: 44.691091537475586
