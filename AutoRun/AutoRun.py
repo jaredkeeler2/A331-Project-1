@@ -19,6 +19,7 @@ for i in algo_dirs:
         if (os.path.exists(log_dir + i) == False):
             os.makedirs(log_dir + i)
 
+#Convert the array stored in the unsorted array files into an iterable list.
 def file2array(filename):
     array = []
     file = open(filename, "r")
@@ -26,6 +27,7 @@ def file2array(filename):
         array = i.split(",")
     return array
 
+#"Sort" the unsorted array. (Note: the sorted list is not saved.)
 def compute(filename, sort_type, pass_num):
     data = file2array(filename)
     time_before = time.time()
@@ -59,6 +61,7 @@ def compute(filename, sort_type, pass_num):
     compute_log.write(log)
     compute_log.close
 
+#Automatically the unsorted arrays using the various sorting methods. Specify the amount of times you'd like to run each algorithm using the num_passes var. Specify the number of arrays you'd like to sort (Max 10)
 num_passes = 2
 num_arrays = 2
 algo_types = ["Bubble", "Heap", "Insertion", "Merge", "Quick", "Selection"]
