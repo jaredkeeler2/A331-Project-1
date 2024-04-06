@@ -1,0 +1,30 @@
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_1.txt
+Sorted Array:
+Time to sort: 0.15709161758422852
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_2.txt
+Sorted Array:
+Time to sort: 0.6674530506134033
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_3.txt
+Sorted Array:
+Time to sort: 1.5221092700958252
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_4.txt
+Sorted Array:
+Time to sort: 2.7167224884033203
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_5.txt
+Sorted Array:
+Time to sort: 4.187012195587158
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_6.txt
+Sorted Array:
+Time to sort: 6.12866997718811
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_7.txt
+Sorted Array:
+Time to sort: 8.351151466369629
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_8.txt
+Sorted Array:
+Time to sort: 10.88445496559143
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_9.txt
+Sorted Array:
+Time to sort: 14.18359375
+Applying BubbleSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_10.txt
+Sorted Array:
+Time to sort: 17.122514963150024

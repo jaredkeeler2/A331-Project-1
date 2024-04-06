@@ -59,11 +59,11 @@ def compute(filename, sort_type, pass_num):
     log = "Applying " + sort_type + "Sort to " + filename + "\nSorted Array:\n"
     log += "Time to sort: " + str(time_diff) + "\n"
     compute_log.write(log)
-    compute_log.close
+    compute_log.close()
 
 #Automatically the unsorted arrays using the various sorting methods. Specify the amount of times you'd like to run each algorithm using the num_passes var. Specify the number of arrays you'd like to sort (Max 10)
-num_passes = 2
-num_arrays = 2
+num_passes = 3
+num_arrays = 10
 algo_types = ["Bubble", "Heap", "Insertion", "Merge", "Quick", "Selection"]
 for i in algo_types:
     j = 1

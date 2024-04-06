@@ -1,0 +1,30 @@
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_1.txt
+Sorted Array:
+Time to sort: 0.004004240036010742
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_2.txt
+Sorted Array:
+Time to sort: 0.015810728073120117
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_3.txt
+Sorted Array:
+Time to sort: 0.03442072868347168
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_4.txt
+Sorted Array:
+Time to sort: 0.057882070541381836
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_5.txt
+Sorted Array:
+Time to sort: 0.09378886222839355
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_6.txt
+Sorted Array:
+Time to sort: 0.1383962631225586
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_7.txt
+Sorted Array:
+Time to sort: 0.16889166831970215
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_8.txt
+Sorted Array:
+Time to sort: 0.21694087982177734
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_9.txt
+Sorted Array:
+Time to sort: 0.29637861251831055
+Applying QuickSort to c:\Users\jared\OneDrive\Desktop\331Project\A331-Project-1\AutoRun\Arrays\Array_10.txt
+Sorted Array:
+Time to sort: 0.34026551246643066
